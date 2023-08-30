@@ -1,0 +1,12 @@
+*{
+    color: rgb(0, 0, 0);
+    font: 300px;
+    font-size: medium;
+
+}
+:-ms-input-placeholder{
+    color: black;
+}
+section{
+    width: 100px;
+}
